@@ -3,6 +3,8 @@
 👋 Hey there! Tyler here.
 Welcome to my GitHub page! Here you'll find a collection of my personal projects and work from online courses and certifications.
 
+Currently, I'm working as a _Data Scientist_ for a team implementing _sythetic data generation_ for low and zero-shot object detection models.  In Autumn of 2021, I started U.T. Austin's Computer Science M.S. program.  In the future, I'd like to find a team where I can apply my interests in Deep RL and ML in general to create solutions that help automate difficult tasks as cooperative partners with humans.
+
 #### 🌱 I’m currently learning ...
   * Machine Learning (for M.S. Degree)
   * Reinforcement Learning techniques
