@@ -1,11 +1,8 @@
 ### Maker. Programmer. Data Scientist. 🧰👨‍💻📈 | MSCO at UT Austin 🤘
 
-👋 Hey there! Tyler here.
-Welcome to my GitHub page! Here you'll find a collection of my personal projects and work from online courses and certifications.
+👋 Hey there!  Here you'll find a collection of my personal projects and work from online courses and certifications.
 
-Currently, I'm working as a *Data Scientist* for a team implementing *sythetic data generation* for low and zero-shot object detection models.  In Autumn of 2021, I started U.T. Austin's Computer Science M.S. program.  
-
-In the future, I'd like to find a team where I can apply my interests in Deep RL and ML in general to create solutions that help automate difficult tasks as cooperative partners with humans.
+I'm currently working as a *Data Scientist* for a team implementing *sythetic data generation* for low and zero-shot object detection models.  In Autumn of 2021, I started U.T. Austin's Computer Science M.S. program.
 
 
 #### 🌱 I’m currently learning ...
@@ -16,15 +13,11 @@ In the future, I'd like to find a team where I can apply my interests in Deep RL
   * Video games
   * Synthetic data generation & simulation
   * Intelligent agents
-  * Philosophy
   
 #### 💞️ I’m looking to collaborate on ...
   * Interesting machine learning applications
   * Intelligent agents & virtual beings
   * Art projects
-  
-#### 📫 Get in touch!
-  * @tpedelose on GitHub, LinkedIn, etc.
 
 <!---
 tpedelose/tpedelose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
