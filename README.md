@@ -5,9 +5,9 @@
 I'm currently working as a *Data Scientist* for a team implementing *sythetic data generation* for low and zero-shot object detection models.  In Autumn of 2021, I started U.T. Austin's Computer Science M.S. program.
 
 
-#### 🌱 I’m currently learning ...
-  * Machine Learning (for M.S. Degree)
-  * Reinforcement Learning techniques
+#### 🌱 I’m currently ...
+  * Making some physical props and electronics
+  * Playing around with *reinforcement learning* projects
 
 #### 👀 I’m interested in ...
   * Video games
