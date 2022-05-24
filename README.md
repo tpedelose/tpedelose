@@ -1,5 +1,3 @@
-### Maker. Programmer. Data Scientist. 🧰👨‍💻📈 | MSCO at UT Austin 🤘
-
 👋 Hey there!  Here you'll find a collection of my personal projects and work from online courses and certifications.
 
 I'm currently working as a *Data Scientist* for a team implementing *sythetic data generation* for low and zero-shot object detection models.  In Autumn of 2021, I started U.T. Austin's Computer Science M.S. program.
