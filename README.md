@@ -1,10 +1,8 @@
-👋 Hey there!  Here you'll find a collection of my personal projects and work from online courses and certifications.
-
-I'm currently working as a *Data Scientist* for Maxar, mainly dealing with geospatial machine learning and computer vision.  And I started a Masters of Computer Science with a focus in ML/AI at U.T. Austin in Fall 2021.
+👋 Hey, Tyler here!   I'm a *Data Scientist* for Maxar, creating machine learning and computer vision models with geospatial data.  I started a Masters of Computer Science at U.T. Austin in Fall 2021, focused on strengthening my ML/AI and broadening my programming skills.
 
 #### 👀 I’m interested in ...
   * Intelligent agents (via Deep RL and other methods)
-  * Video game dev and design
+  * Video game design and dev
   * Synthetic data generation & simulation
   
 #### 💞️ I’m looking to collaborate on ...
