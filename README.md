@@ -1,14 +1,19 @@
-👋 Hey, Tyler here!   I'm a *Data Scientist* for Maxar, creating machine learning and computer vision models with geospatial data.  I started a Masters of Computer Science at U.T. Austin in Fall 2021, focused on strengthening my ML/AI and broadening my programming skills.
+### Programming.  Machine Learning.  Data Science.  👨‍💻🤖📈
 
-#### 👀 I’m interested in ...
-  * Intelligent agents (via Deep RL and other methods)
-  * Video game design and dev
-  * Synthetic data generation & simulation
+___
+
+#### 👨‍💻 My Work
+  * Currently at Maxar Technologies, helping create computer vision models with satellite imagery as well as the underlying pipelines.
+
+#### 👀 I’m interested in:
+  * Video game design and development, and how AI could be applied to games
+  * Intelligent agents, especially applied Reinforcement Learning
+  * Making cooperative AI systems
+
+#### 🏫 Currently learning:
+  * Masters of Computer Science at U.T. Austin (started in Autumn 2021)
+    * Focus on ML/AI, optimization, and software system design
   
-#### 💞️ I’m looking to collaborate on ...
-  * Interesting applications of machine learning
-  * Intelligent agents & virtual beings
-  * Making video games for fun and art
 
 <!---
 tpedelose/tpedelose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
