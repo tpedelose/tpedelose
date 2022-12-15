@@ -1,7 +1,3 @@
-### Programming.  Machine Learning.  Data Science.  👨‍💻🤖📈
-
-___
-
 #### 👨‍💻 My Work
   * Currently at Maxar Technologies, helping create computer vision models with satellite imagery as well as the underlying pipelines.
 
