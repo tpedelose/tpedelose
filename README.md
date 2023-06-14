@@ -1,13 +1,13 @@
-#### 👨‍💻 My Work
-  * Currently at Maxar Technologies, helping create computer vision models with satellite imagery as well as the underlying pipelines.
+#### 👨‍💻 Work
+I'm currently at Maxar Technologies, helping create machine learning and computer vision models with satellite imagery, the underlying pipelines, and the data aquisition applications.
 
-#### 👀 I’m interested in:
-  * Video game design and development, and how AI could be applied to games
-  * Intelligent agents, especially applied Reinforcement Learning
-  * Making cooperative AI systems
+#### 👀 Interests
+* Intelligent agents via Deep Reinforcement Learning, Bandit Algorithms, and decision transformers
+* Machine Learning in Video Game design, development, and testing
+* Human-AI cooperation
 
-#### 🏫 Currently learning:
-  * Masters of Computer Science at U.T. Austin (started in Autumn 2021)
+#### 🏫 Learning
+* Masters of Computer Science at U.T. Austin (Autumn 2021 - now)
     * Focus on ML/AI, optimization, and software system design
   
 
