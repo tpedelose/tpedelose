@@ -1,5 +1,5 @@
 #### 👨‍💻 Work
-I'm currently at Maxar Technologies, helping create machine learning and computer vision models with satellite imagery, the underlying pipelines, and the data aquisition applications.
+I'm currently at (Maxar Technologies)[https://www.maxar.com/], helping create machine learning and computer vision models with satellite imagery, the underlying pipelines, and the data aquisition applications.
 
 #### 👀 Interests
 * Intelligent agents via Deep Reinforcement Learning, Bandit Algorithms, and decision transformers
