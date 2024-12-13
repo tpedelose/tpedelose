@@ -4,9 +4,9 @@
 * Human-AI cooperation
 
 #### 🏫 Learning
-* Masters of Computer Science at U.T. Austin (Autumn 2021 - now)
+* Masters of Computer Science at U.T. Austin
     * Focus on Machine Learning and AI, optimization, and software system design
-    * TA for Data Science for Health Discovery (Spring 2024) and Reinforcement Learning (Autumn 2023)
+    * TA for Data Science for PSRUU (Au24) Health Discovery (Sp24) and Reinforcement Learning (Au23)
   
 <!---
 tpedelose/tpedelose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
